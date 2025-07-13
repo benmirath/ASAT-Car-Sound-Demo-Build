@@ -1,0 +1,36 @@
+{
+ "ProjectInfo": {
+  "Project": {
+   "Name": "asat-car-soundcape-demo",
+   "GUID": "{FD4D0597-6124-4D26-9FB5-5E95A82F17AB}",
+   "Generator": "2024.1.6.8842"
+  },
+  "CacheRoot": "../../../../../Wwise2024.1.6.8842-asat-car-soundcape-demo/.cache",
+  "Platforms": [
+   {
+    "Name": "Mac",
+    "GUID": "{40E8356D-5C32-4BE2-9239-6F80C61BDEDE}",
+    "BasePlatform": "Mac",
+    "BasePlatformGUID": "{9C6217D5-DD11-4795-87C1-6CE02853C540}",
+    "Path": "../../../../../Wwise2024.1.6.8842-asat-car-soundcape-demo/GeneratedSoundBanks/Mac"
+   },
+   {
+    "Name": "Windows",
+    "GUID": "{42D9682A-83AE-44F9-AB4A-DE6D92C5BE62}",
+    "BasePlatform": "Windows",
+    "BasePlatformGUID": "{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}",
+    "Path": "../../../../../Wwise2024.1.6.8842-asat-car-soundcape-demo/GeneratedSoundBanks/Windows"
+   }
+  ],
+  "Languages": [
+   {
+    "Name": "English(US)",
+    "Id": "684519430",
+    "GUID": "{28180B7B-4B78-43A4-9035-0587AC24B7BE}",
+    "Default": "true",
+    "UseAsStandIn": "true"
+   }
+  ],
+  "FileHash": "{106A7E48-4935-A3D3-F973-3580D5335D47}"
+ }
+}
